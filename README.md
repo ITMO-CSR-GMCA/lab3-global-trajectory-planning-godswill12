@@ -66,7 +66,7 @@ Highlighted path, obstacles, influence zones, and diversions
 
 ## 5. Results and Visualization
 
-![alt text]({output}.png)
+![Potential Field Result](output.png)
 
 
 ## 6. Observations
